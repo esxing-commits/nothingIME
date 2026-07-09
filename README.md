@@ -1,168 +1,31 @@
 # 南極蝦鍵盤 | nothingIME
 
-一款注重極簡、流暢、順手與可自訂性的iOS第三方鍵盤，支援嘸蝦米輸入法。
+簡單好用的待辦事項與提醒工具。
 
 ## 更新歷程
 詳見app store<br/>
 
 ## 功能特色
-- 主畫面標題顯示：**南極蝦鍵盤 | nothingIME**（App 內設定頁）
-- 可上傳 `.CIN` 字碼檔使用熟悉的嘸蝦米輸入法輸入中文字! (需自備cin字碼檔、需自備cin字碼檔、需自備cin字碼檔，不會使用請來信詢問作者或在facebook社團內提問)
-- 鍵盤配色：自動 / 淺色 / 深色，設定中可依喜好設定
-- 觸覺回饋開/關，以及打字音效開/關 
-- 按鍵放大效果可開關（按下時有放大動畫） 
-- 空白鍵長按並左右滑動(或選字列)即可移動游標位置 
-- 候選列支援分頁、左右點擊箭頭切換，也可點擊英文字母直接送出 
-- 模糊比對與字詞連打（beta）：不用按空白鍵組字，直接連打2~3字組出詞彙 
-- 使用詞庫與自動學習可分別設定獨立開關；關閉「使用詞庫」時會即時清除記憶體中的學習詞以提升效能
-- 可自訂加字加詞，例如設定addr=台北市信義區中山路100號，可快速輸入長串字
-- 可刪除、清空學習詞 
-- iPhone 直立模式可調「鍵高」範圍
-- 鍵盤地球鍵開/關，以支援無原生地球鍵的機種
-- 同音同查詢/輸入(加購項目)
-- 九宮格鍵盤(加購項目)
-- 注音查碼(加購項目)：可輸入注音組字及查詢嘸蝦米組字碼
+你是不是也常常「轉頭就忘」？
+買菜走到超市，卻忘了要買什麼？
+工作忙到一半，突然漏掉最重要的待辦？
+「怕忘記清單」是一款專為「容易忘記」的你設計的極簡待辦事項 App。沒有複雜的設定，只有最直覺、最快速的記錄體驗，幫你把腦海中的瑣事一秒定格！
 
-## FaceBook 社團
-<a href="https://www.facebook.com/groups/1417781276124676" target="_blank" rel="noopener noreferrer">南極蝦鍵盤 | nothingIME</a>
+核心功能——完全免費：
+• 極速建立：一鍵新增清單，打字就能快速分類。
+• 簡約介面：專注於待辦本身，視覺乾淨不雜亂。
+• 靈活分類：生活、工作、買菜、旅行，輕鬆切換不同清單。
+• 隨手勾選：完成項目一鍵劃掉，享受滿滿的成就感。
 
 ## 操作畫面
-![設定頁] <br/>
-<img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 22 34-portrait" src="https://github.com/user-attachments/assets/daa0accc-c710-4c52-8754-5503afa87f35" />
-<img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 24 04-portrait" src="https://github.com/user-attachments/assets/51eb45b4-8865-40da-9954-236936037907" />
-<img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 23 44-portrait" src="https://github.com/user-attachments/assets/9ff09a71-20b4-4a7f-84ac-ac0520dfb20f" />
-<img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 23 29-portrait" src="https://github.com/user-attachments/assets/fcea74df-e287-4145-b7e8-6940824e8339" />
-<img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 23 52-portrait" src="https://github.com/user-attachments/assets/989dc0f5-c3a5-405f-88e8-ef41bfe05e8a" />
-<img width="300" src="https://github.com/user-attachments/assets/2bc2f198-ced4-4023-921b-22ed9e7241ff" />
-
-
-
-![鍵盤介面]<br/>
-<img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 24 44-portrait" src="https://github.com/user-attachments/assets/855c2e7a-64ae-4c0d-a3eb-00b8dfb2ac18" />
-<img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 54 04-portrait" src="https://github.com/user-attachments/assets/1dc6e7b9-f1a7-41f8-8240-faf8538beac8" />
-<img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 53 33-portrait" src="https://github.com/user-attachments/assets/eb688bfb-419b-4d86-837d-bdb32ec3a5dc" />
-<img width="300" src="https://github.com/user-attachments/assets/13298d74-c3d9-4847-93a4-0d48e5c24ec5" />
-<img width="300" src="https://github.com/user-attachments/assets/51a605c5-9dbc-435a-8856-42f1da632a6d" />
-<img width="300" src="https://github.com/user-attachments/assets/198db4d0-da42-44df-a78e-1c7ce535522a" />
 
 
 ## 安裝
 到 App Store 下載<br/>
-[南極蝦鍵盤 | nothingIME](https://apps.apple.com/tw/app/%E5%8D%97%E6%A5%B5%E8%9D%A6%E9%8D%B5%E7%9B%A4-nothingime/id6748654605)<br/>
-[南極蝦鍵盤 | nothingIME Lite (免費版)](https://apps.apple.com/tw/app/%E5%8D%97%E6%A5%B5%E8%9D%A6%E9%8D%B5%E7%9B%A4lite-%E6%94%AF%E6%8F%B4%E5%98%B8%E8%9D%A6%E7%B1%B3%E9%8D%B5%E7%9B%A4%E8%BC%B8%E5%85%A5%E6%B3%95/id6749168274)<br/>
-<img width="300" alt="IMG_3333A2D174CC-1-portrait" src="https://github.com/user-attachments/assets/3bee64dd-027c-49a7-82e4-6cc6ad5ca05f" />
-<img width="300" alt="IMG_F4BFE2701895-1-portrait" src="https://github.com/user-attachments/assets/b2ae418f-072e-43d3-a4e3-ece3bc0bc869" />
 
-## 關於字碼檔cin安裝及問題Q&A
-<details>
-  <summary>Q：為何要自備字碼檔(cin)？不能內建比較方便嗎？</summary>
-  A：嘸蝦米字碼檔為<b>行易公司版權所有</b>，未經授權不可任意使用，所以無法內建在鍵盤之內，因此而增加推廣嘸蝦米的難度。(不會使用請來信詢問作者或在facebook社團內提問)
-<br/><br/>
-</details>
-
-<details>
-  <summary>Q：字碼檔如何取得？</summary>
-  A：請從行易網站下載並轉檔，或從網路查詢取得方式。
-</details>
-
-<details>
-  <summary>Q：字碼檔(cin)怎麼匯入？</summary>
-  A：請依以下步驟匯入：
-<br/>
-  1、準備好字碼檔(cin)，字碼檔如果用記事本打開會像下圖一樣(拆解碼[空4格或tab]完成後的組字)，其實它就是一個普通文字檔。<br/>
-  <img width="300" alt="截圖 2025-09-28 下午6 59 08" src="https://github.com/user-attachments/assets/f014b4c8-d486-411e-97f7-026cb83787fe" />
-  <br/>
-  2、進入南極蝦鍵盤-設定-找到「上傳字碼檔(.cin)」，點擊它<br/>
-  <img width="274" alt="截圖 2025-09-28 晚上7 06 40" src="https://github.com/user-attachments/assets/0587aa5d-5df6-4b11-b3a2-49970a76cdde" />
-  <br/>
-  3、選取本機存字碼檔的位置可以看到字碼檔，點擊它<br/>
-  <img width="300"  alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-28 at 19 07 37" src="https://github.com/user-attachments/assets/ef1444a9-21db-4120-ad2a-022384a9277c" />
-  <br/>
-  4、回到設定會看到「匯入成功，已覆蓋boshiamy.json!」且目前字碼檔字數：39,727字，表示上傳成功。<br/>
-  <img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-28 at 19 07 24" src="https://github.com/user-attachments/assets/9e139eed-dc77-48d1-a72d-7efdd4445e08" />
-  <br/>
-  5、這時打開任何可打字的app就可以用嘸蝦米字碼打字了。<br/>
-  <img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-28 at 19 08 13" src="https://github.com/user-attachments/assets/c8863fa7-c763-4afe-a108-444c83056396" />
-  <br/><br/>
-</details>
-
-
-<details>
-  <summary>Q：Lite版和付費版有何不同？</summary>
-  A：Lite版專注打字流暢且完全免費使用；<br/>
-   付費版加入許多附加功能(例如：內建字庫、自動學習、加字加詞)。使用者可以依照自己的需求選用。(如果只需要基本打字Lite版已經夠用了，如覺得app不錯也可買付費版贊助開發者)
-</details>
-
-<details>
-  <summary>Q：有滑動控制移動游標的功能嗎？</summary>
-  A：有這個功能。<br/>
-   長按空白鍵手機會震動一下，這時左右滑動就可以移動游標的位置。
-   候選字列沒有文字時也若以左右滑動移動游標。
-   空白鍵的移動比較小(滑動長度長移動距離短)、候選字列的移動較大(滑動長度長移動距離長)。
-</details>
-
-<details>
-  <summary>Q：主鍵盤qwertyuiop鍵上有1234567890是可以用的嗎？</summary>
-  A：可以快速輸入數字0~9。<br/>
-   快速按下Q鍵，然後往上滑就會直接輸出數字1，依此類推輸入其他數字。
-</details>
-
-<details>
-  <summary>Q：為何我新增到詞庫管理的新詞沒有在打字當中出現？</summary>
-  A：在設定-使用詞庫關閉再打開，重複2次以防止沒有正確設定好。<br/>
-   如果還是沒效果，請重新安裝app及重新開機。
-</details>
-
-<details>
-  <summary>Q：什麼是蝦米模式？</summary>
-  A：傳統嘸蝦米鍵盤最多只能輸入五字字根，這個模式就是類似傳統的做法，<br/>
-   開啟此模式只能打五碼組字，無法用字詞連打功能。
-</details>
-
-<details>
-  <summary>Q：如何使用同音字查詢？</summary>
-  A：(1)輸入符號「'」或按「音」<br/> (2)輸入同字字碼，例如neo+空白鍵<br/> (3)這時選同音字，例如「同」，就會出現與「同」相同音的國字，點擊會出現字的嘸蝦米碼<br/>(4)按空白或點擊字體即可送字。<br/>
-  <img width="300" alt="image" src="https://github.com/user-attachments/assets/87b749ab-89a5-4e03-bd53-1d0d6d4a5c17" />
-<img width="300"  alt="image" src="https://github.com/user-attachments/assets/8c8f3d6f-dc91-44cc-bbc1-27102d5ae903" />
-<img width="300"  alt="image" src="https://github.com/user-attachments/assets/d1aa49aa-a2c0-40a0-b953-c1726f41d080" />
-<img width="300"  alt="image" src="https://github.com/user-attachments/assets/05754c3d-de6c-4c32-8dd8-e88ee2be0a4d" />
-<img width="300"  alt="image" src="https://github.com/user-attachments/assets/69f8832a-2ade-4f68-91af-69e6493dba6e" />
-</details>
-
-<details>
-  <summary>Q：如何使用九宮格鍵盤？</summary>
-  A：按下下圖黃色區塊的按鍵就可進入九宮格鍵盤，操作方式和符號鍵盤一樣，按下即出字<br/>
-  <img width="300" src="https://github.com/user-attachments/assets/2ba5335d-48ce-41a9-97f7-2c88e0455717" /><br/>
-   按「中」或「ⓧ」可關閉九宮格鍵盤，回到中文鍵盤。<br/>
-  <img width="300" src="https://github.com/user-attachments/assets/4e8647a3-31ac-4d54-a700-52e4f7db5467" />
-
-</details>
-
-<details>
-  <summary>Q：如何使用注音鍵盤？</summary>
-  A：按下主畫面「注」的功能按鍵就可進入注音鍵盤，輸入注音碼會查出相關中文字，按下即出字並出現該字的嘸蝦米字碼。<br/>
-   按右下角「蝦」可關閉注音鍵盤，回到南極蝦中文鍵盤。<br/>
-  <img width="300" src="https://github.com/user-attachments/assets/e0e80aa7-6e92-4432-8516-31c3520d1bd0" />
-
-</details>
-
-<details>
-  <summary>Q：打字震動回饋有打開為何還是沒有震動？</summary>
-  A：請將輸入法「允許完整取用打開」，就會有震動回饋了。<br/>
-</details>
-
-<details>
-  <summary>Q：自動學習有打開為何還是沒有自動學習？</summary>
-  A：請將輸入法「允許完整取用打開」，就會有自動學習了。<br/>
-</details>
-
-<details>
-  <summary>Q：貼上時都會詢問『「南極蝦鍵盤」想要貼上⋯⋯的內容』允許此操作嗎？」，能否不要一直詢問？</summary>
-  A：請到設定 -> app -> 南極蝦鍵盤 -> 從其他App貼上 -> 改成「允許」 <br/>
-  以後使用時就不會再詢問了。<br/>
-</details>
+## 問題Q&A
 
 <br/><br/>
 
 ## 隱私權政策
-不蒐集個人資料、學習詞資料僅儲存在本地，沒有設計上傳資料功能，完全本地使用。 
+不蒐集個人資料、所有資料僅儲存在本地，沒有設計上傳資料功能，完全本地使用。 
